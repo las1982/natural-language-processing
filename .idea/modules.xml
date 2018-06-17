@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DataAnalysis/.idea/DataAnalysis.iml" filepath="$PROJECT_DIR$/../DataAnalysis/.idea/DataAnalysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../google-ml-crash-cource/.idea/google-ml-crash-cource.iml" filepath="$PROJECT_DIR$/../google-ml-crash-cource/.idea/google-ml-crash-cource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ie-is-tag-exists-classification/.idea/ie-is-tag-exists-classification.iml" filepath="$PROJECT_DIR$/../ie-is-tag-exists-classification/.idea/ie-is-tag-exists-classification.iml" />
       <module fileurl="file://$PROJECT_DIR$/../intro-to-dl/.idea/intro-to-dl.iml" filepath="$PROJECT_DIR$/../intro-to-dl/.idea/intro-to-dl.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/natural-language-processing.iml" filepath="$PROJECT_DIR$/.idea/natural-language-processing.iml" />
     </modules>
